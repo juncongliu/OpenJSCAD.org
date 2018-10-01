@@ -59,7 +59,7 @@ install node.js > 6.0
 cd base-directory-of-website
 git clone https://github.com/jscad/OpenJSCAD.org
 cd OpenJSCAD.org
-npm run boostrap
+npm run bootstrap
 cd packages/web . // this is where the web version is
 cp ../examples ./examples // copy the examples here
 <start a web server here>
